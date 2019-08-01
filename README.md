@@ -8,11 +8,11 @@ Elements of programming interviews in java solutions
 
 | Problem | Java | Tests |
 | ------ | ------ | ------ |
-| Bootcamp: Primitive Types | CountBits.java | &#2713 |
-| Computing the parity of a word | Parity.java | &#2713 |
-| Swap bits | SwapBits.java | &#2713 |
-| Reverse bits | ReverseBits.java | &#2713 |
-| Find a closest integer with the same weight | ClosestIntSameWeight.java | &#2713 |
+| Bootcamp: Primitive Types | CountBits.java | &#10003 |
+| Computing the parity of a word | Parity.java | &#10003 |
+| Swap bits | SwapBits.java | &#10003 |
+| Reverse bits | ReverseBits.java | &#10003 |
+| Find a closest integer with the same weight | ClosestIntSameWeight.java | &#10003 |
 | Compute x * y without arithmetical operators | PrimitiveMultiply.java | - |
 | Compute x/y | PrimitiveDivide.java | - |
 | Compute x^y | PowerXY.java | - |

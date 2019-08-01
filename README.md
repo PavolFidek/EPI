@@ -6,13 +6,13 @@ Elements of programming interviews in java solutions
 
 ## Problem to Program Mapping
 
-| Problem | Java | Tests |
+| Problem | Java | Test |
 | ------ | ------ | ------ |
-| Bootcamp: Primitive Types | CountBits.java | :heavy_plus_sign: |
-| Computing the parity of a word | Parity.java | :heavy_plus_sign: |
-| Swap bits | SwapBits.java | :heavy_plus_sign: |
-| Reverse bits | ReverseBits.java | :heavy_plus_sign: |
-| Find a closest integer with the same weight | ClosestIntSameWeight.java | :heavy_plus_sign: |
+| Bootcamp: Primitive Types | CountBits.java | :heavy_check_mark: |
+| Computing the parity of a word | Parity.java | :heavy_check_mark: |
+| Swap bits | SwapBits.java | :heavy_check_mark: |
+| Reverse bits | ReverseBits.java | :heavy_check_mark: |
+| Find a closest integer with the same weight | ClosestIntSameWeight.java | :heavy_check_mark: |
 | Compute x * y without arithmetical operators | PrimitiveMultiply.java | - |
 | Compute x/y | PrimitiveDivide.java | - |
 | Compute x^y | PowerXY.java | - |

@@ -1,6 +1,6 @@
 # EPI
 
-## Introducing 
+## Introduction 
 
 Elements of programming interviews in java solutions
 
@@ -8,11 +8,11 @@ Elements of programming interviews in java solutions
 
 | Problem | Java | Tests |
 | ------ | ------ | ------ |
-| Bootcamp: Primitive Types | CountBits.java | U+2713 |
-| Computing the parity of a word | Parity.java | U+2713 |
-| Swap bits | SwapBits.java | U+2713 |
-| Reverse bits | ReverseBits.java | U+2713 |
-| Find a closest integer with the same weight | ClosestIntSameWeight.java | U+2713 |
+| Bootcamp: Primitive Types | CountBits.java | &#2713 |
+| Computing the parity of a word | Parity.java | &#2713 |
+| Swap bits | SwapBits.java | &#2713 |
+| Reverse bits | ReverseBits.java | &#2713 |
+| Find a closest integer with the same weight | ClosestIntSameWeight.java | &#2713 |
 | Compute x * y without arithmetical operators | PrimitiveMultiply.java | - |
 | Compute x/y | PrimitiveDivide.java | - |
 | Compute x^y | PowerXY.java | - |

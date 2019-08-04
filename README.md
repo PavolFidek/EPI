@@ -14,7 +14,7 @@ Elements of programming interviews in java solutions
 | Reverse bits | ReverseBits.java | :heavy_check_mark: |
 | Find a closest integer with the same weight | ClosestIntSameWeight.java | :heavy_check_mark: |
 | Compute x * y without arithmetical operators | PrimitiveMultiply.java | :heavy_check_mark: |
-| Compute x/y | PrimitiveDivide.java | - |
+| Compute x/y | PrimitiveDivide.java | :heavy_check_mark: |
 | Compute x^y | PowerXY.java | - |
 | Reverse digits | ReverseDigits.java | - |
 | Check if a decimal integer is a palindrome | IsNumberPalindromic.java | - |

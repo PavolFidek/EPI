@@ -13,7 +13,7 @@ Elements of programming interviews in java solutions
 | Swap bits | SwapBits.java | :heavy_check_mark: |
 | Reverse bits | ReverseBits.java | :heavy_check_mark: |
 | Find a closest integer with the same weight | ClosestIntSameWeight.java | :heavy_check_mark: |
-| Compute x * y without arithmetical operators | PrimitiveMultiply.java | - |
+| Compute x * y without arithmetical operators | PrimitiveMultiply.java | :heavy_check_mark: |
 | Compute x/y | PrimitiveDivide.java | - |
 | Compute x^y | PowerXY.java | - |
 | Reverse digits | ReverseDigits.java | - |

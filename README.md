@@ -16,7 +16,7 @@ Elements of programming interviews in java solutions
 | Compute x * y without arithmetical operators | PrimitiveMultiply.java | :heavy_check_mark: |
 | Compute x/y | PrimitiveDivide.java | :heavy_check_mark: |
 | Compute x^y | PowerXY.java | :heavy_check_mark: |
-| Reverse digits | ReverseDigits.java | - |
+| Reverse digits | ReverseDigits.java | :heavy_check_mark: |
 | Check if a decimal integer is a palindrome | IsNumberPalindromic.java | - |
 | Generate uniform random numbers | UniformRandomNumber.java | - |
 | Rectangle intersection | RectangleIntersection.java | - |

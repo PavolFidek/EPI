@@ -19,7 +19,7 @@ Elements of programming interviews in java solutions
 | Reverse digits | ReverseDigits.java | :heavy_check_mark: |
 | Check if a decimal integer is a palindrome | IsNumberPalindromic.java | :heavy_check_mark: |
 | Generate uniform random numbers | UniformRandomNumber.java | :heavy_check_mark: |
-| Rectangle intersection | RectangleIntersection.java | - |
+| Rectangle intersection | RectangleIntersection.java | :heavy_check_mark: |
 | Bootcamp: Arrays | EvenOddArray.java | - |
 | The Dutch national flag problem | DutchNationalFlag.java | - |
 | Increment an arbitrary-precision integer | IntAsArrayIncrement.java | - |

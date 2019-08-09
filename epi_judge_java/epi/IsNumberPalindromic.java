@@ -12,7 +12,7 @@ public class IsNumberPalindromic {
     }
 
     final int numDigits = (int)(Math.floor(Math.log10(x))) + 1; // numbers of digits in x-number
-    int msdMask = (int)Math.pow(10, numDigits - 1); // Extract the MSD from x
+    int msdMask = (int)Math.pow(10, numDigits - 1); // Extract the MSD (most significant digit) from x
 
     for (int i = 0; i < (numDigits / 2); ++i) {
       if (x / msdMask != x % 10) { // If the LSD and MSD of x are not equal -> number is not palindromic

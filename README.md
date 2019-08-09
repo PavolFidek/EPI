@@ -18,7 +18,7 @@ Elements of programming interviews in java solutions
 | Compute x^y | PowerXY.java | :heavy_check_mark: |
 | Reverse digits | ReverseDigits.java | :heavy_check_mark: |
 | Check if a decimal integer is a palindrome | IsNumberPalindromic.java | :heavy_check_mark: |
-| Generate uniform random numbers | UniformRandomNumber.java | - |
+| Generate uniform random numbers | UniformRandomNumber.java | :heavy_check_mark: |
 | Rectangle intersection | RectangleIntersection.java | - |
 | Bootcamp: Arrays | EvenOddArray.java | - |
 | The Dutch national flag problem | DutchNationalFlag.java | - |

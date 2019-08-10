@@ -20,7 +20,7 @@ Elements of programming interviews in java solutions
 | Check if a decimal integer is a palindrome | IsNumberPalindromic.java | :heavy_check_mark: |
 | Generate uniform random numbers | UniformRandomNumber.java | :heavy_check_mark: |
 | Rectangle intersection | RectangleIntersection.java | :heavy_check_mark: |
-| Bootcamp: Arrays | EvenOddArray.java | - |
+| Bootcamp: Arrays | EvenOddArray.java | :heavy_check_mark: |
 | The Dutch national flag problem | DutchNationalFlag.java | - |
 | Increment an arbitrary-precision integer | IntAsArrayIncrement.java | - |
 | Multiply two arbitrary-precision integers | IntAsArrayMultiply.java | - |

@@ -9,7 +9,18 @@ import java.util.List;
 public class EvenOddArray {
 
   public static void evenOdd(List<Integer> A) {
-    // TODO - you fill in here.
+    int nextEven = 0;
+    int nextOdd = A.size() - 1;
+
+    while (nextEven < nextOdd) {
+      if (A.get(nextEven) % 2 == 0) {
+        nextEven++;
+      } else {
+        Collections.swap(A, nextEven, nextOdd--);
+      }
+    }
+
+
     return;
   }
   @EpiTest(testDataFile = "even_odd_array.tsv")

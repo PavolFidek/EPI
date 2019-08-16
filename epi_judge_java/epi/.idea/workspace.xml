@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ebdc3d-a48e-4406-a868-c30365ecebce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DutchNationalFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/DutchNationalFlag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenOddArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/EvenOddArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_build/epi/EvenOddArray$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_build/epi/EvenOddArray$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_build/epi/EvenOddArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_build/epi/EvenOddArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntAsArrayIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntAsArrayIncrement.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,14 +48,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DutchNationalFlag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="525">
+              <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntAsArrayIncrement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -86,6 +91,7 @@
         <option value="$PROJECT_DIR$/RectangleIntersection.java" />
         <option value="$PROJECT_DIR$/EvenOddArray.java" />
         <option value="$PROJECT_DIR$/DutchNationalFlag.java" />
+        <option value="$PROJECT_DIR$/IntAsArrayIncrement.java" />
       </list>
     </option>
   </component>
@@ -156,12 +162,12 @@
       <workItem from="1565953826156" duration="560000" />
       <workItem from="1565954427890" duration="26000" />
       <workItem from="1565954458876" duration="636000" />
-      <workItem from="1565955200250" duration="1989000" />
+      <workItem from="1565955200250" duration="4113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32884000" />
+    <option name="totallyTimeSpent" value="35008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,11 +316,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DutchNationalFlag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="525">
+          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntAsArrayIncrement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

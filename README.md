@@ -21,8 +21,8 @@ Elements of programming interviews in java solutions
 | Generate uniform random numbers | UniformRandomNumber.java | :heavy_check_mark: |
 | Rectangle intersection | RectangleIntersection.java | :heavy_check_mark: |
 | Bootcamp: Arrays | EvenOddArray.java | :heavy_check_mark: |
-| The Dutch national flag problem | DutchNationalFlag.java | - |
-| Increment an arbitrary-precision integer | IntAsArrayIncrement.java | - |
+| The Dutch national flag problem | DutchNationalFlag.java | :heavy_check_mark: |
+| Increment an arbitrary-precision integer | IntAsArrayIncrement.java | :heavy_check_mark: |
 | Multiply two arbitrary-precision integers | IntAsArrayMultiply.java | - |
 | Advancing through an array | AdvanceByOffsets.java | - |
 | Delete duplicates from a sorted array | SortedArrayRemoveDups.java | - |

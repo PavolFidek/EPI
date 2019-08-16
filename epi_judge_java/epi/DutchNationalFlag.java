@@ -1,17 +1,40 @@
 package epi;
+
 import epi.test_framework.EpiTest;
 import epi.test_framework.GenericTest;
 import epi.test_framework.TestFailure;
 import epi.test_framework.TimedExecutor;
+import java.util.Collections;
 import java.util.ArrayList;
 import java.util.List;
+
 public class DutchNationalFlag {
   public enum Color { RED, WHITE, BLUE }
 
   public static void dutchFlagPartition(int pivotIndex, List<Color> A) {
-    // TODO - you fill in here.
-    return;
+    Color pivot = A.get(pivotIndex);
+
+    // Folowing lines of code grouping the numbers smaller than pivot.
+    for (int i = 0; i < A.size(); i++) {
+      for (int j = i + 1; j < A.size(); j++) {
+        if (A.get(j).ordinal() < pivot.ordinal()) {
+          Collections.swap(A, i, j);
+          break;
+        }
+      }
+    }
+
+    // Folowing lines of ocde grouping the numbers larger than pivot.
+    for (int i = A.size() - 1; i >= 0 && A.get(i).ordinal() >= pivot.ordinal(); i--) {
+      for (int j = i -1; j >= 0 && A.get(j).ordinal() >= pivot.ordinal(); j--) {
+        if (A.get(j).ordinal() > pivot.ordinal()) {
+          Collections.swap(A, i, j);
+          break;
+        }
+      }
+    }
   }
+
   @EpiTest(testDataFile = "dutch_national_flag.tsv")
   public static void dutchFlagPartitionWrapper(TimedExecutor executor,
                                                List<Integer> A, int pivotIdx)
